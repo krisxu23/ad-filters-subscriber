@@ -23,7 +23,10 @@ application:
 #      - name: 'example rule' #规则名称
 #        path: 'https://example.org/rule.txt' #规则地址
 #      - 'https://example.org/rule2.txt' #旧版写法, 不推荐
-
+         name: 'hululu1068'
+         path: 'https://raw.githubusercontent.com/hululu1068/AdGuard-Rule/main/rule/all.txt'
+         name: 'bibaiji'
+         path: 'https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/ad-rules.txt'
     #本地规则请将文件放置到项目路径rule目录中
     local:
 #      - name: 'local rule'
